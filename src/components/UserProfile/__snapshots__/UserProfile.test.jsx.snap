@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserProfile Component matches snapshot with user data 1`] = `
+<div>
+  <div>
+    <h2>
+      User Profile
+    </h2>
+    <p
+      data-testid="user-name"
+    >
+      Name: 
+      John Doe
+    </p>
+    <p
+      data-testid="user-email"
+    >
+      Email: 
+      john@example.com
+    </p>
+    <p
+      data-testid="user-age"
+    >
+      Age: 
+      30
+    </p>
+    <p
+      data-testid="premium-badge"
+    >
+      ⭐ Premium User
+    </p>
+  </div>
+</div>
+`;
+
+exports[`UserProfile Component matches snapshot without user 1`] = `
+<div>
+  <div>
+    <h2>
+      User Profile
+    </h2>
+    <p>
+      Please log in to see your profile.
+    </p>
+  </div>
+</div>
+`;
