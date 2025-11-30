@@ -14,7 +14,7 @@ This repository demonstrates professional React testing methodologies using Jest
 - **Async Component**: API calls, error boundaries, and loading states
 
 <div align="center">
-  <img src="https://github.com/Figrac0/React-Testing-Jest/blob/Jest_U_Test/screenshot/1.png" alt="React Testing Demo Screenshot" width="600" />
+  <img src="https://github.com/Figrac0/React-Testing-Jest/blob/Jest_U_Test/screenshot/1.png" alt="React Testing Demo Screenshot" width="400" />
 </div>
 
 ### 🧪 Testing Techniques Demonstrated
